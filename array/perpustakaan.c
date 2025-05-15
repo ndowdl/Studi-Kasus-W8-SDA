@@ -1,5 +1,5 @@
-#ifndef perpus_h
-#define perpus_h
+#ifndef PERPUSTAKAAN_H
+#define PERPUSTAKAAN_H
 
 #include "perpus.h"
 #include <stdio.h>
